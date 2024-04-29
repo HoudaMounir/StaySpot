@@ -10,6 +10,9 @@
 
 ![image](https://github.com/HoudaMounir/StaySpot/assets/122269840/a9c0d4db-6ce7-422a-9bcc-8bc4b34f9f50)
 
+![image](https://github.com/HoudaMounir/StaySpot/assets/122269840/b33e8d77-9cd9-4776-845e-8ca5dfa31ffc)
+
+
 ### Sign Up Page
 ![image](https://github.com/HoudaMounir/StaySpot/assets/122269840/343c5516-a71d-4cf4-8cb2-3d5e48eba1e9)
 
