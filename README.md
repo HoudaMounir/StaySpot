@@ -20,5 +20,13 @@
 ![image](https://github.com/HoudaMounir/StaySpot/assets/122269840/f50a92a0-2d1c-4a95-91b6-4892a4e64f7a)
 
 
+### Propert List for a seller
+![image](https://github.com/HoudaMounir/StaySpot/assets/122269840/2d5c10ba-6e9a-4904-91b4-164c16f3afde)
+
+### Formulaire d'ajout
+![image](https://github.com/HoudaMounir/StaySpot/assets/122269840/9ab6ff5d-02a1-4980-a8e1-c3700fa63c45)
+
+![image](https://github.com/HoudaMounir/StaySpot/assets/122269840/ce58d0c8-378b-4dd9-9b85-97e86f9e1c5c)
+
 
 
